@@ -1,4 +1,4 @@
-[CODE=python]
+[CODE]
 import os
 
 while True:
